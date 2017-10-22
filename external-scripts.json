@@ -1,7 +1,11 @@
 [
+	"hubot-coin",
 	"hubot-google-translate",
-	"hubot-tell",
-	"hubot-shipit",
 	"hubot-redis-brain",
+	"hubot-scripts-stock",
+	"hubot-self-uptime",
+	"hubot-shipit",
+	"hubot-tell",
+	"hubot-xkcd",
 	"hubot-youtube"
 ]
